@@ -1,3 +1,3 @@
 # Asteroid-game
-This is an asteroid game completed with the help of Pygame
-Built an Asteroids Game With Python and Pygame
+This is a single player asteroid game based on the popular spaceship game.
+Created majorly using pygame library of python.
